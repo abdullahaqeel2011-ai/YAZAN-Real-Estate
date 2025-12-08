@@ -1,101 +1,99 @@
 # YAZAN-Real-Estate
 🏢 YAZAN Real Estate — AI-Powered Property Automation System
 
-YAZAN Real Estate is an intelligent automation platform built to streamline property management, client handling, meeting scheduling, and communication—powered by AI and n8n workflows.
-It helps real estate teams save time, reduce manual effort, and deliver faster, smarter service.
+YAZAN Real Estate is an intelligent automation platform designed to streamline property management, client handling, meeting scheduling, and communication — powered by AI + n8n workflows.
+It helps real estate teams save time, reduce manual work, and deliver faster, smarter service.
 
-🚀 Key Features (Summarized)
+🚀 Key Features
 
-AI-Powered Property Listings — Add, update, and manage properties automatically
+🏡 AI-Powered Property Listings — Add, update, and manage properties automatically
 
-Client Search & Filtering — Retrieve buyer details, property matches, and requirements
+🔍 Client Search & Filtering — Retrieve buyer details, matches, and requirements
 
-Smart Meeting Scheduler — Auto-books meetings via Google Calendar
+📅 Smart Meeting Scheduler — Auto-books meetings via Google Calendar
 
-AI-Generated Messages/Emails — Professional communication drafted instantly
+✉️ AI-Generated Messages & Emails — Professional communication drafted instantly
 
-Financial & Property Calculations — Built-in formulas for pricing, commissions, ROI
+🧮 Financial Calculations — Pricing, commissions, ROI, and property math
 
-AI Memory System — Stores context for smooth, ongoing conversations
+🧠 AI Memory System — Maintains conversation context
 
-Workflow Automation (n8n) — Fully automated backend tasks
+🔗 Workflow Automation (n8n) — Fully automated backend operations
 
 🛠️ Tech Stack
 
-Automation: n8n
+⚙️ Automation: n8n
 
-AI Model: Google Gemini
+🤖 AI Model: Google Gemini
 
-Database: Google Sheets
+🗂️ Database: Google Sheets
 
-Calendar: Google Calendar
+📆 Calendar: Google Calendar
 
-Email Service: Gmail API
+📧 Email Service: Gmail API
 
-Language: JavaScript / JSON
+💻 Language: JavaScript / JSON
 
-Hosting: Local Server / Cloud
+☁️ Hosting: Local Server / Cloud
 
 🗂️ System Architecture
-Rolo — Internal Automation Agent
+🔵 Rolo — Internal Automation Agent
 
-Manages properties
+Manages & updates property data
 
-Updates database
+Handles meeting scheduling
 
-Schedules meetings
+Performs financial calculations
 
-Handles calculations
+Sends internal messages & notifications
 
-Sends internal notifications
-
-Client Agent — Customer Interaction Bot
+🟣 Client Agent — Customer Interaction Bot
 
 Responds to property inquiries
 
-Suggests listings
+Suggests listings based on budget
 
-Handles budget questions
+Provides quick support to clients
 
-Guides clients professionally
+Helps filter and find matching properties
 
-➡️ Both agents work together through dynamic routing and decision logic.
+🧠 Both agents work together using intelligent routing and decision logic.
 
-⚙️ How It Works (Short Version)
+⚙️ How It Works
 
-User message received
+💬 User sends a message
 
-System detects intent (Client vs. Internal)
+🧭 System detects intent (Client vs Internal)
 
-Rolo executes admin tasks
+🟦 Rolo executes management tasks
 
-Client Agent responds to buyers/sellers
+🟪 Client Agent responds to buyers/sellers
 
-Output delivered through email, chat, or API
+📤 Output is delivered via email, chat, or API
 
 📦 Ideal For
 
-Real estate agencies
+🏢 Real estate agencies
 
-Property dealers
+🏘️ Property dealers
 
-Independent realtors
+👨‍💼 Independent realtors
 
-Automated CRM systems
+🧩 Automated CRM systems
 
-Lead qualification teams
+🎯 Lead qualification teams
 
-📈 Planned Enhancements
+📈 Future Enhancements
 
-WhatsApp & Web Chat integration
+💬 WhatsApp & Web Chat integration
 
-Real-time client dashboard
+📊 Real-time client dashboard
 
-Automated payment workflows
+💳 Automated payment workflows
 
-Lead scoring with AI
+⭐ AI-powered lead scoring
 
-Smart property recommendation engine
+🏡 Smart property recommendation engine
 
 📄 License
 
