@@ -1,29 +1,28 @@
 # YAZAN-Real-Estate
-🏢 YAZAN Real Estate — AI-Powered Property Management System
+🏢 YAZAN Real Estate — AI-Powered Property Automation System
 
-YAZAN Real Estate is an intelligent real estate automation platform designed to streamline property management, client handling, meeting scheduling, and communication using AI-driven workflows.
+YAZAN Real Estate is an intelligent automation platform built to streamline property management, client handling, meeting scheduling, and communication—powered by AI and n8n workflows.
+It helps real estate teams save time, reduce manual effort, and deliver faster, smarter service.
 
-This system is built to support real estate agents by automating routine tasks and improving productivity through smart decision-making.
+🚀 Key Features (Summarized)
 
-🚀 Features
+AI-Powered Property Listings — Add, update, and manage properties automatically
 
-✅ Add & Update Property Listings Automatically
+Client Search & Filtering — Retrieve buyer details, property matches, and requirements
 
-🔍 Client Search & Data Retrieval
+Smart Meeting Scheduler — Auto-books meetings via Google Calendar
 
-📅 Automated Meeting Scheduling
+AI-Generated Messages/Emails — Professional communication drafted instantly
 
-✉️ AI-Based Message & Email Drafting
+Financial & Property Calculations — Built-in formulas for pricing, commissions, ROI
 
-🧮 Financial & Property Calculations
+AI Memory System — Stores context for smooth, ongoing conversations
 
-🧠 Smart AI Memory for Context-Aware Conversations
-
-🔗 Workflow Automation via n8n
+Workflow Automation (n8n) — Fully automated backend tasks
 
 🛠️ Tech Stack
 
-Workflow Automation: n8n
+Automation: n8n
 
 AI Model: Google Gemini
 
@@ -37,41 +36,44 @@ Language: JavaScript / JSON
 
 Hosting: Local Server / Cloud
 
-🗂️ System Overview
+🗂️ System Architecture
+Rolo — Internal Automation Agent
 
-The platform uses two AI agents:
+Manages properties
 
-Rolo (Internal Agent):
-Manages properties, meetings, database updates, calculations, and internal automation.
+Updates database
 
-Client Agent:
-Handles customer queries, property searches, and client communication.
+Schedules meetings
 
-Both agents work together through intelligent routing and decision logic.
+Handles calculations
 
-⚙️ How It Works
+Sends internal notifications
 
-A user sends a message.
+Client Agent — Customer Interaction Bot
 
-The system detects intent (client or internal task).
+Responds to property inquiries
 
-Rolo processes admin tasks like:
+Suggests listings
 
-Property updates
+Handles budget questions
 
-Scheduling meetings
+Guides clients professionally
 
-Sending messages
+➡️ Both agents work together through dynamic routing and decision logic.
 
-Client Agent handles:
+⚙️ How It Works (Short Version)
 
-Property inquiries
+User message received
 
-Budget questions
+System detects intent (Client vs. Internal)
 
-General support
+Rolo executes admin tasks
 
-📦 Use Cases
+Client Agent responds to buyers/sellers
+
+Output delivered through email, chat, or API
+
+📦 Ideal For
 
 Real estate agencies
 
@@ -81,24 +83,26 @@ Independent realtors
 
 Automated CRM systems
 
-📈 Future Enhancements
+Lead qualification teams
 
-WhatsApp & Web Chat Integration
+📈 Planned Enhancements
 
-Live Client Dashboard
+WhatsApp & Web Chat integration
 
-Payment Automation
+Real-time client dashboard
 
-Lead Scoring with AI
+Automated payment workflows
 
-Property Recommendation System
+Lead scoring with AI
+
+Smart property recommendation engine
+
+📄 License
+
+Licensed for educational and commercial use.
 
 👤 Author
 
 Abdullah Aqeel
-AI Automation Expert | Software Quality Assurance Engineer
+AI Automation Expert | QA Engineer
 📧 abdullahaqeel2011@gmail.com
-
-📄 License
-
-This project is licensed for educational and commercial use.
