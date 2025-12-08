@@ -101,6 +101,8 @@ Licensed for educational and commercial use.
 
 👤 Author
 
+👤 Author
+
 Abdullah Aqeel
 
-AI Automation Expert | Software Quality Assurance Engineer
+AI Automation Engineer | Software Quality Assurance (SQA)
